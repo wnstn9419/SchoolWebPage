@@ -14,6 +14,6 @@
  - 최시원 -
 
 ### ⚙ 개발 환경
- - 'HTML5'
+ - HTML5
  - CSS3
  - JAVASCRIPT
